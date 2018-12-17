@@ -1,24 +1,4 @@
 body{
     background: rgb(54, 0, 25);
     color: white;
-
-
-
-
-
-
-
-
-    
 }
-/* $( "#addChar").on( "click", function( event){
-
-        event.preventDefault();
-        var character = $("#get-Character").val().trim();
-    
-        topic.push(character);
-    
-        makeButtons();
-        console.log( character);
-    
-    }); */
